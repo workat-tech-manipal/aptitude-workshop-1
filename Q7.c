@@ -1,4 +1,4 @@
-/**Find total number of rectangles in a 10*10 cheese boards.
+/**Find total number of rectangles in a 10*10 cheese boards.(square is also counted)
 Answer)  3025**/
 #include<stdio.h>
 #include<stdlib.h>
