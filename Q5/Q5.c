@@ -1,5 +1,4 @@
-/**Given a series of numbers  3,10,21,36 …., Find the 100th value of the above series.
-Answer)  20100**/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
